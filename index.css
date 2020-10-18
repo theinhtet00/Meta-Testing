@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+    color: aqua;
+}
+a{
+    text-decoration: none;
+}
+a label{
+    margin-left: 45%;
+}
